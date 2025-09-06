@@ -176,5 +176,3 @@ Contributions, suggestions, and bug reports are welcome. If you want to contribu
 ## Author
 
 **Pardhesh Maddala** —  Developer
-
-If you’d like, I can also generate: a PDF README, a short demo GIF, or update the repository `README` with badges (Python, Streamlit, Twilio) and a short demo GIF.  
