@@ -1,0 +1,12 @@
+langchain
+langgraph
+streamlit
+pandas
+openpyxl
+twilio
+faker
+spacy
+groq
+sendgrid
+APScheduler
+graphviz
